@@ -6,5 +6,8 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * [Specific](https://www.tensorflow.org/): TensorFlow is an open source software library for numerical computation using data flow graphs.
 
 ## References & Code source
+* https://www.zybuluo.com/hanbingtao/note/433855
+* http://blog.csdn.net/zouxy09/article/details/14222605
+
 
 _More codes will be uploaded soon!_
