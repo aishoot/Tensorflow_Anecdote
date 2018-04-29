@@ -9,7 +9,6 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * https://www.zybuluo.com/hanbingtao/note/433855
 * http://blog.csdn.net/zouxy09/article/details/14222605
 * @斗大的熊猫: http://blog.topspeedsnail.com/
-* [Tensorflow中文社区](http://www.tensorfly.cn/)
 
 
 _More code will be uploaded soon!_
