@@ -11,4 +11,4 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * @斗大的熊猫: http://blog.topspeedsnail.com/
 
 
-_More codes will be uploaded soon!_
+_More code will be uploaded soon!_
