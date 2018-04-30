@@ -11,7 +11,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 ## References & Code source
 * https://www.zybuluo.com/hanbingtao/note/433855
 * http://blog.csdn.net/zouxy09/article/details/14222605
-* @斗大的熊猫: http://blog.topspeedsnail.com/
+* @斗大的熊猫: http://blog.topspeedsnail.com/. Thanks to his open source tutorials of tensorflow!
 
 
 _More code will be uploaded soon!_
