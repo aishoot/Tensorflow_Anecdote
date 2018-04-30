@@ -7,6 +7,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 
 ## File description
 * 02-train_predict: China railway passenger volume forecast
+* 04-voice_gender: Judging sex according to Chinese name
 
 ## References & Code source
 * https://www.zybuluo.com/hanbingtao/note/433855
