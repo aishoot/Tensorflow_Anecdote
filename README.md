@@ -12,7 +12,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * 04-voice_gender: judging sex by features of voice
 * 05-name_gender: judging sex by Chinese name
 * 06-TFLearn_CNN: using TFLearn to rewrite convolution neural network written by Tensorflow
-* 07-locate_by_WiFi: indoor location by WiFi fingerprint. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi data - "UJIndoorLoc.zip" and unzip it.
+* 07-locate_by_WiFi: indoor location by WiFi fingerprint. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi data - "UJIndoorLoc.zip" and unzip it to current folder.
 
 
 * 08-vgj
