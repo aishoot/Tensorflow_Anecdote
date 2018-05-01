@@ -1,6 +1,6 @@
 # TensorflowAnecdote
 A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorflow version: 1.3 & 1.4)<br>
-[Deep learning libraries featuring a higher-level API for TensorFlow](https://blog.csdn.net/chenhaifeng2016/article/details/73935156):
+[Deep learning libraries featuring a higher-level API for TensorFlow](https://blog.csdn.net/chenhaifeng2016/article/details/73935156):<br>
 ![](higher_api.png)
 
 ## What is Tensorflow?
