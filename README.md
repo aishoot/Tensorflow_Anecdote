@@ -13,6 +13,12 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * 05-name_gender: judging sex by Chinese name
 * 06-TFLearn_CNN: using TFLearn to rewrite convolution neural network written by Tensorflow
 * 07-locate_by_WiFi: indoor location using WiFi fingerprint
+'''
+wget https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip
+unzip UJIndoorLoc.zip
+'''
+
+* 08-vgj
 
 ## References & Code Source
 * https://www.zybuluo.com/hanbingtao/note/433855
