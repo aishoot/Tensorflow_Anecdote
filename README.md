@@ -18,7 +18,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence. (Tensorf
 * https://www.zybuluo.com/hanbingtao/note/433855
 * http://blog.csdn.net/zouxy09/article/details/14222605
 * [Spoken_Number_Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
-* @斗大的熊猫: http://blog.topspeedsnail.com/. Thanks to his open source tutorials of Tensorflow!
+* @斗大的熊猫: http://blog.topspeedsnail.com. Thanks to his open source tutorials of Tensorflow!
 
 
 _More code will be uploaded soon!_
