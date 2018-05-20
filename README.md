@@ -3,7 +3,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence for begin
 [Deep learning libraries featuring a higher-level API for TensorFlow](https://blog.csdn.net/chenhaifeng2016/article/details/73935156):<br><br>
 ![](higher_api.png)
 The development history of CNN (Convolutional Neural Network):
-<img src="cnn_history.png" width="50%" height="50%">
+<img src="cnn_history.png" width="75%" height="75%">
 
 ## What is Tensorflow?
 * [General](https://www.tensorflow.org/): TensorFlow is an Open Source Software Library for Machine Intelligence
