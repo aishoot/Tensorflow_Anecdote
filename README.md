@@ -3,7 +3,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence for begin
 [Deep learning libraries featuring a higher-level API for TensorFlow](https://blog.csdn.net/chenhaifeng2016/article/details/73935156):<br><br>
 ![](higher_api.png)
 The development history of CNN (Convolutional Neural Network):
-<img src="cnn_history.png" width="75%" height="75%">
+<img src="cnn_history.png" width="80%" height="80%" align=center>
 
 ## What is Tensorflow?
 * [General](https://www.tensorflow.org/): TensorFlow is an Open Source Software Library for Machine Intelligence
@@ -23,6 +23,7 @@ The development history of CNN (Convolutional Neural Network):
 * @斗大的熊猫: http://blog.topspeedsnail.com.
 * [cifar-10-cnn](https://github.com/BIGBALLON/cifar-10-cnn)
 * [stanford_cars](https://github.com/DanilGizdatullin/stanford_cars)
+* [cnn_history](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503De6zpYN01gagUvn0Ht8D#wechat_redirect)
 
 
 _More code will be uploaded soon!_
