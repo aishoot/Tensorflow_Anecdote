@@ -18,6 +18,7 @@ The development history of CNN (Convolutional Neural Network):
 * 05-name_gender: judging sex by Chinese name
 * 06-TFLearn_CNN: using TFLearn to rewrite convolution neural network written by Tensorflow
 * 07-WiFi_locate_autoencoder: indoor location by WiFi fingerprint and deep autoencoder. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi data - "UJIndoorLoc.zip" and unzip it to current folder.
+* 08-MNIST: deep learing of the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
 
 
 ## References & Code Source
