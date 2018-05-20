@@ -27,7 +27,7 @@ The development history of CNN (Convolutional Neural Network):
 * @斗大的熊猫: http://blog.topspeedsnail.com.
 * [cifar-10-cnn](https://github.com/BIGBALLON/cifar-10-cnn)
 * [stanford_cars](https://github.com/DanilGizdatullin/stanford_cars)
-* [cnn_history](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503De6zpYN01gagUvn0Ht8D#wechat_redirect)
+* [cnn_history](https://blog.csdn.net/cyh_24/article/details/51440344)
 
 
 _More code will be uploaded soon!_
