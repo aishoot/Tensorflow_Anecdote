@@ -5,7 +5,7 @@ A tutorial of Google's tensorflow to step into Artificial Intelligence for begin
 
 The development history of CNN (Convolutional Neural Network):
 <img   align=center>
-<div align=center><img width="80%" height="80%" src="cnn_history.png"/></div>
+<div align=center><img width="78" height="78%" src="cnn_history.png"/></div>
 
 ## What is Tensorflow?
 * [General](https://www.tensorflow.org/): TensorFlow is an Open Source Software Library for Machine Intelligence
