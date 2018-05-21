@@ -19,7 +19,7 @@ The development history of CNN (Convolutional Neural Network):
 * 06-TFLearn_CNN: using TFLearn to rewrite convolution neural network written by Tensorflow
 * 07-WiFi_locate_autoencoder: indoor location by WiFi fingerprint and deep autoencoder. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi data - "UJIndoorLoc.zip" and unzip it to current folder.
 * 08-MNIST: deep learing using the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
-* 09-MNIST_kaggle: deep learning of the [Kaggle competition - Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+* 09-MNIST_kaggle: deep learning of the [Kaggle competition - Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) (Data is MNIST with csv format).
 
 
 ## References & Code Source
