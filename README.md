@@ -26,7 +26,7 @@ The development history of CNN (Convolutional Neural Network):
 * https://www.zybuluo.com/hanbingtao/note/433855
 * http://blog.csdn.net/zouxy09/article/details/14222605
 * [Spoken_Number_Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
-* @斗大的熊猫: http://blog.topspeedsnail.com.
+* https://blog.csdn.net/u014365862
 * [cifar-10-cnn](https://github.com/BIGBALLON/cifar-10-cnn)
 * [stanford_cars](https://github.com/DanilGizdatullin/stanford_cars)
 * [cnn_history](https://blog.csdn.net/cyh_24/article/details/51440344)
