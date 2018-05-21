@@ -1,5 +1,5 @@
 # TensorflowAnecdote
-A tutorial of Google's tensorflow to step into Artificial Intelligence for beginners. (My test Tensorflow version: 1.3 & 1.4)<br>
+A tutorial of Google's tensorflow to step into Artificial Intelligence for beginners. (All programs are tested under the tensorflow 1.3 & 1.4 version)<br>
 [Deep learning libraries featuring a higher-level API for TensorFlow](https://blog.csdn.net/chenhaifeng2016/article/details/73935156):<br><br>
 ![](higher_api.png)
 
