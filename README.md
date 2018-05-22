@@ -30,6 +30,7 @@ The development history of CNN (Convolutional Neural Network):
 * [some_CNN_architectures_for_CIFAR10](https://github.com/BIGBALLON/cifar-10-cnn)
 * [Stanford_cars](https://github.com/DanilGizdatullin/stanford_cars)
 * [CNN_history](https://blog.csdn.net/cyh_24/article/details/51440344)
+* [10 Advanced Deep Learning Architectures](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
 
 
 _More code will be uploaded soon!_
