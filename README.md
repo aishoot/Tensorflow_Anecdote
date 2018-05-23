@@ -28,7 +28,7 @@ The development history of CNN (Convolutional Neural Network):
 * [Spoken_Number_Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
 * https://blog.csdn.net/u014365862
 * [Some CNN architectures for CIFAR10](https://github.com/BIGBALLON/cifar-10-cnn)
-* [CNN-Car-Detection](https://github.com/MarcelElstereit/CNN-Car-Detection)
+* [Stanford cars: CNN-Car-Detection](https://github.com/MarcelElstereit/CNN-Car-Detection)
 * [CNN history](https://blog.csdn.net/cyh_24/article/details/51440344)
 * [10 Advanced Deep Learning Architectures](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
 
