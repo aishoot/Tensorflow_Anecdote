@@ -99,10 +99,9 @@ def train_neural_networks():
         # ---------------- Training NN - Supervised Learning ------------------ #
         for epoch in range(training_epochs):
             epoch_costs = np.empty(0)
-            for b in range(total_batches):
-                offset = (b * batch_size) % (train_x.shape[0] - batch_size)
-                batch_x = train_x[offset:(offset + batch_size), :]
-                batch_y = train_y[offset:(offset + batch_size), :]
+            for batch in range(total_batches//batch_size):
+                batch_x = train_x[batch * batch_size: (batch + 1) * batch_size, :]
+                batch_y = train_y[batch * batch_size: (batch + 1) * batch_size, :]
                 _, c = sess.run([s_optimizer, s_cost_function], feed_dict={X: batch_x, Y: batch_y})
                 epoch_costs = np.append(epoch_costs, c)
 
