@@ -15,9 +15,9 @@ The development history of CNN (Convolutional Neural Network):
 ## File Description
 * 02-train_predict: China railway passenger volume forecast
 * 04-voice_gender: judging sex by features of voice
-* 05-name_gender: judging sex by Chinese name
+* 05-name_gender: judging sex by Chinese name. Click [here](https://pan.baidu.com/s/1Nsdh6Ty1PmrkhPltdn5XHw) to download the dataset.
 * 06-TFLearn_CNN: using TFLearn to rewrite convolution neural network written by Tensorflow
-* 07-WiFi_locate_autoencoder: indoor location by WiFi fingerprint and deep autoencoder. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi data - "UJIndoorLoc.zip" and unzip it to current folder.
+* 07-WiFi_locate_autoencoder: indoor location by WiFi fingerprint and deep autoencoder. Click [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00310/UJIndoorLoc.zip) to download the WiFi and unzip it to current folder.
 * 08-MNIST: deep learing using the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
 * 09-MNIST_kaggle: deep learning of the [Kaggle competition - Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) (Data is the MNIST with csv format).
 
