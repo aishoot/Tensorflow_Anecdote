@@ -89,7 +89,7 @@ def train_neural_networks():
         # autoencoder是一种非监督学习算法,他利用反向传播算法,让目标值等于输入值
         for epoch in range(training_epochs):  # 20
             epoch_costs = np.empty(0)
-            for b in range(total_batches):  # 19937
+            for b in range(total_batches):  # 19937,有问题,需要修改
                 offset = (b * batch_size) % (train_x.shape[0] - batch_size)  # ???
                 batch_x = train_x[offset:(offset + batch_size), :]  # ???, 感觉这两行代码有问题,batch_size可参考voice.py
 
