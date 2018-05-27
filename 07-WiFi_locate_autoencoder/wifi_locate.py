@@ -71,7 +71,9 @@ def train_neural_networks():
     tf.cast: 将x的数据格式转化成对应的dtype
     """
     us_cost_function = tf.reduce_mean(tf.pow(X - decoded, 2))
-    s_cost_function = -tf.reduce_sum(Y * tf.log(predict_output))
+    # fuck!!!程序中c始终为0,检查了半天,原来是tf.reduce_sum, fuck!shit! 应该是tf.reduce_mean
+    # s_cost_function = -tf.reduce_sum(Y * tf.log(predict_output))
+    s_cost_function = -tf.reduce_mean(Y * tf.log(predict_output))
     us_optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(us_cost_function)
     s_optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(s_cost_function)
 
