@@ -64,7 +64,7 @@ b_fc2 = bias_variable([10])
 y_conv = tf.nn.softmax(tf.matmul(h_fc1_drop, W_fc2) + b_fc2)  # softmax映射到(0,1), [?,10]
 
 test1 = tf.log(y_conv)  # (?,10)
-test2 = y_ * test1 # (?,10), 注意!!! Tensorflow中的"*"和numpy一样对应点乘,而不是矩阵乘
+test2 = y_ * test1 # (?,10), 注意!!! Tensorflow中常量constant的"*"和numpy一样对应点乘,而不是矩阵乘
 test3 = -tf.reduce_sum(test2, reduction_indices=[1])  # (?,)
 cross_entropy = tf.reduce_mean(test3)
 train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
