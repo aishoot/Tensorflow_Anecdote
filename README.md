@@ -32,6 +32,7 @@ The development history of CNN (Convolutional Neural Network):
 * [Stanford cars: CNN-Car-Detection](https://github.com/MarcelElstereit/CNN-Car-Detection)
 * [CNN history](https://blog.csdn.net/cyh_24/article/details/51440344)
 * [10 Advanced Deep Learning Architectures](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
+* [Deep learning introduction](https://zybuluo.com/hanbingtao/note/433855)
 
 
 _More code will be uploaded soon!_
